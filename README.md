@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
