@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
