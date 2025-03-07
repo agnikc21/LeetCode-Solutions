@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
