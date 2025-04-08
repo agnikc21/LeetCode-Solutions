@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Trie
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
