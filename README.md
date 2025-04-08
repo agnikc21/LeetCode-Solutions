@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Linked List
@@ -53,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Array
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
