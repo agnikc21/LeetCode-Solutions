@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
