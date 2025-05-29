@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -169,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
