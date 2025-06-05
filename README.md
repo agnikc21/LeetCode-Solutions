@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
