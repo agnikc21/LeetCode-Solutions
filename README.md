@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1036-rotting-oranges](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1755-defuse-the-bomb](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
