@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -369,11 +371,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
