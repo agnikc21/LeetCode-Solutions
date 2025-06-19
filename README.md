@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1755-defuse-the-bomb](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Two Pointers
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Tree
 |  |
 | ------- |
