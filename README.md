@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0883-car-fleet](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1755-defuse-the-bomb](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0883-car-fleet](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Hash Table
 |  |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
