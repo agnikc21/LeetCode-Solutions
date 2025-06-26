@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
