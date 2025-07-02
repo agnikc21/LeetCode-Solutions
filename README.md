@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0883-car-fleet](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0883-car-fleet) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
