@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
