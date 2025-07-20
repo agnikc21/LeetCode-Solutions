@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2087-confirmation-rate) |
