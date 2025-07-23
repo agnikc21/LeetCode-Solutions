@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1258-article-views-i](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1278-product-price-at-a-given-date) |
