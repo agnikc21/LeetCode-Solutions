@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/agnikc21/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 ## Greedy
 |  |
