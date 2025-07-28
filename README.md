@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0046-permutations) |
