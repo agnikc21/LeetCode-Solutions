@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1877-find-followers-count) |
 | [2087-confirmation-rate](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2087-confirmation-rate) |
