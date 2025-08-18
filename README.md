@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Bit Manipulation
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/agnikc21/LeetCode-Solutions/tree/master/1508-longest-happy-prefix) |
 ## Heap (Priority Queue)
 |  |
