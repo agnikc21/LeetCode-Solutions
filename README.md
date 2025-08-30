@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0883-car-fleet](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0883-car-fleet) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/agnikc21/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/agnikc21/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
